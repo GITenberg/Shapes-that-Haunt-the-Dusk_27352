@@ -1,0 +1,41 @@
+_repo: Shapes-that-Haunt-the-Dusk_27352
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Alden, Henry Mills
+    birthdate: 1836
+    deathdate: 1919
+    gutenberg_agent_id: '2444'
+    url: http://www.gutenberg.org/2009/agents/2444
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Mills_Alden
+  - agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: ''
+gutenberg_issued: '2008-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27352'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+tableOfContents: The Christmas child / Georg Schock -- The white sleep of Auber Hurn
+  / Richard Rice -- In tenebras / Howard Pyle -- The little room / Madelene Yale Wynne
+  -- The bringing of the rose / Harriet Lewis Bradley -- Perdita / Hildegarde Hawthorne
+  -- At La Glorieuse / M.E.M. Davis -- A faded scapular / F.D. Millet -- At the hermitage
+  / E. Levi Brown -- The reprisal / H.W. McVickar.
+title: Shapes that Haunt the Dusk
+url: http://www.gutenberg.org/ebooks/27352
